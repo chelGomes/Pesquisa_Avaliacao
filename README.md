@@ -11,7 +11,7 @@ Passos para reprodução:
 2. Abra o notebook do Google Colab
 3. Faça o upload do arquivo microdados_enade_2021.txt
 
-Ferramentas utilizadas
+Ferramentas que foram utilizadas
 
 1.Python 3
 2.Google Colab
